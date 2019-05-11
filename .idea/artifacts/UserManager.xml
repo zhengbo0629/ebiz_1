@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="UserManager">
+    <output-path>$PROJECT_DIR$/classes/artifacts/UserManager</output-path>
+    <root id="root" />
+  </artifact>
+</component>
